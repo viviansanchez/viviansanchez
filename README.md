@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Vivian Sanchez 👋
 
-<!--
-**viviansanchez/viviansanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+I'm a Web Developer, currently focusing on Front-End. 
+Right now, I'm enrolled in a Full Stack course at [Rocketseat](https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Technologies
+- `HTML5`
+- `CSS3`
+- `JavaScript`
+- `NodeJS`
+- `Angular`
+- `mySQL`
+- `Figma`
+- `Git` & `Github`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact me
+- Email: vivian.sanchez.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vivian-sanchez-b9570818b/?locale=en_US
+
