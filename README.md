@@ -1,20 +1,34 @@
-### Hi there, I'm Vivian Sanchez 👋
+## Hey there! Welcome to my profile :smile:
 
-#### About me
-I'm a Web Developer, currently focusing on Front-End. 
-Right now, I'm enrolled in a Full Stack course at [Rocketseat](https://www.rocketseat.com.br/)
+### About me
+I'm a web developer, focusing on Frontend development at the moment. I'm currently enrolled in a Full Stack course at [Rocketseat](https://www.rocketseat.com.br/)
 
-#### Technologies
-- `HTML5`
-- `CSS3`
-- `JavaScript`
-- `NodeJS`
-- `Angular`
-- `mySQL`
-- `Figma`
-- `Git` & `Github`
+<br>
 
-#### Contact me
-- Email: vivian.sanchez.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vivian-sanchez-b9570818b/?locale=en_US
+ <div>
+   <a href="https://github.com/viviansanchez">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viviansanchez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviansanchez&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
+### Technologies
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />	
+</div>
+ 
+ <br>
+ 
+  ### Contact me! 
+ 
+<div> 
+  <a href = "mailto:viviansanchez.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vivian-sanchez-b9570818b/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
