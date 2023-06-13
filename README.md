@@ -7,8 +7,8 @@ I'm a web developer, focusing on Frontend development at the moment. I'm current
 
  <div>
    <a href="https://github.com/viviansanchez">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viviansanchez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviansanchez&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viviansanchez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viviansanchez&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ### Technologies
