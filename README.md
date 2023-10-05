@@ -1,7 +1,7 @@
 ## Hey there! Welcome to my profile :smile:
 
 ### About me
-I'm a web developer, focusing on Frontend development at the moment. I'm currently enrolled in a Full Stack course at [Rocketseat](https://www.rocketseat.com.br/)
+My name is Vivian and I am a full-stack web developer!
 
 <br>
 
