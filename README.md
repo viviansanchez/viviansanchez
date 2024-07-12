@@ -1,15 +1,9 @@
 ## Hey there! Welcome to my profile :smile:
 
-### About me
-My name is Vivian and I am a full-stack web developer!
+At the moment, I am working at [Epsilon Academy](https://github.com/epsilon-academy), an edtech startup, as a Full Stack Web Developer. Our stack includes Svelte, SvelteKit, Tailwind, TypeScript, Zod, Skeleton UI, Pocketbase and Playwright. 
 
+I am also enrolled in a React course by [Rocketseat](https://app.rocketseat.com.br/) so I can keep myself updated on other frameworks as well. 
 <br>
-
- <div>
-   <a href="https://github.com/viviansanchez">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viviansanchez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viviansanchez&layout=compact&langs_count=6&theme=radical"/>
-</div>
 
 ### Technologies
 <div style="display: inline_block"><br>
@@ -21,14 +15,19 @@ My name is Vivian and I am a full-stack web developer!
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Playwright" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" />
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />  
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />	
- 
-  
-          
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+
+### My personal stats
+<div>
+   <a href="https://github.com/viviansanchez">
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viviansanchez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viviansanchez&layout=compact&langs_count=6&theme=radical"/>
 </div>
  
  <br>
