@@ -2,7 +2,7 @@
 
 At the moment, I am working at [Epistemic](https://github.com/EpistemicData), as a Front-End Developer. The stack I am working with includes React, React Native, Expo, Tailwind, TypeScript, Zod, React Query, Axios and more. 
 
-I previously workd at [Epsilon Academy](https://github.com/epsilon-academy), an edtech startup, as a Full Stack Web Developer. Our stack includes Svelte, SvelteKit, Tailwind, TypeScript, Zod, Skeleton UI, Pocketbase and Playwright. 
+I previously worked at [Epsilon Academy](https://github.com/epsilon-academy), an edtech startup, as a Full Stack Web Developer. The stack I worked with included Svelte, SvelteKit, Tailwind, TypeScript, Zod, Skeleton UI, Pocketbase and Playwright. 
 
 I am also enrolled in a React course by [Rocketseat](https://app.rocketseat.com.br/), and am planning to enroll in a React Native course to hone my new skills. 
 <br>
