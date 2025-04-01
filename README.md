@@ -4,7 +4,9 @@ At the moment, I am working at [Epistemic](https://github.com/EpistemicData), as
 
 I previously worked at [Epsilon Academy](https://github.com/epsilon-academy), an edtech startup, as a Full Stack Web Developer. The stack I worked with included Svelte, SvelteKit, Tailwind, TypeScript, Zod, Skeleton UI, Pocketbase and Playwright. 
 
-I am also enrolled in a React course by [Rocketseat](https://app.rocketseat.com.br/), and am planning to enroll in a React Native course to hone my new skills. 
+I am also enrolled in a React course and a React Native course, both by [Rocketseat](https://app.rocketseat.com.br/), so I can hone my skills.
+
+
 <br>
 
 ### Technologies
