@@ -1,5 +1,7 @@
 ## Hey there! Welcome to my profile :smile:
 I previously worked at [Epistemic](https://github.com/EpistemicData) and [Pullup](https://github.com/Pullup-Software), as a Front-End and Mobile Developer. The stack I worked with includes React, React Native, Expo, Tailwind, TypeScript, Zod, Tanstack Query, Axios and more. 
+
+
 I previously worked at [Epsilon Academy](https://github.com/epsilon-academy), an edtech startup, as a Full Stack Web Developer. The stack I worked with included Svelte, SvelteKit, Tailwind, TypeScript, Zod, Skeleton UI, Pocketbase and Playwright. 
 <br>
 
